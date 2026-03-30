@@ -1,6 +1,6 @@
-PWD c:\LaTeX\LatexNote
+PWD c:\LaTeX\LatexNote\LaTeXNote
 INPUT C:\Users\ruoya\AppData\Local\MiKTeX\miktex\data\le\xetex\xelatex.fmt
-INPUT c:\LaTeX\LatexNote\LaTexNote.tex
+INPUT c:\LaTeX\LatexNote\LaTeXNote\LaTexNote.tex
 OUTPUT LaTexNote.log
 INPUT C:\Users\ruoya\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\ruoya\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls

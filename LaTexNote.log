@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.1) (preloaded format=xelatex 2026.2.12)  30 MAR 2026 14:42
+This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.1) (preloaded format=xelatex 2026.2.12)  30 MAR 2026 14:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/LaTeX/LatexNote/LaTexNote.tex
-(c:/LaTeX/LatexNote/LaTexNote.tex
+**c:/LaTeX/LatexNote/LaTeXNote/LaTexNote.tex
+(c:/LaTeX/LatexNote/LaTeXNote/LaTexNote.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
 (C:\Users\ruoya\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -560,67 +560,62 @@ Underfull \hbox (badness 10000) in paragraph at lines 66--76
  []
 
 
-Overfull \hbox (392.57704pt too wide) in paragraph at lines 82--82
-[] \TU/kaiu.ttf(0)/m/n/12 其 中 \TU/lmtt/m/n/12 [H] \TU/kaiu.ttf(0)/m/n/12 表 示 使 圖 片 不 隨 文 字 移 動 ， \TU/lmtt/m/n/12 \verb|\centering| \TU/kaiu.ttf(0)/m/n/12 表 示 將 圖 片 置 中 ， \TU/lmtt/m/n/12 \verb|\includegraphics[width=0.3\textwidth]{ \TU/kaiu.ttf(0)/m/n/12 圖 檔 名 \TU/lmtt/m/n/12 }| \TU/kaiu.ttf(0)/m/n/12 表 示 匯 入 圖 片 並 將 其 以 \TU/lmtt/m/n/12 0.3 \TU/kaiu.ttf(0)/m/n/12 的 倍 率 顯 示 。 [] 
- []
-
-
-Overfull \hbox (78.11752pt too wide) in paragraph at lines 86--144
+Overfull \hbox (78.11752pt too wide) in paragraph at lines 87--145
 \TU/kaiu.ttf(0)/m/n/12 公 式 指 令 的 前 後 要 以[][]\TU/lmtt/m/n/12 $$[]\TU/kaiu.ttf(0)/m/n/12 包 圍 以 使 用 \TU/TimesNewRoman(0)/m/n/12 mathjax \TU/kaiu.ttf(0)/m/n/12 渲 染。|  也 可 使 用[][]\TU/lmtt/m/n/12 \begin{math}(\TU/kaiu.ttf(0)/m/n/12 行內公式[]或[][]\TU/lmtt/m/n/12 begin{displaymath}(\TU/kaiu.ttf(0)/m/n/12 行間公式\TU/lmtt/m/n/12 ) 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 86--144
+Underfull \hbox (badness 10000) in paragraph at lines 87--145
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 86--144
+Underfull \hbox (badness 10000) in paragraph at lines 87--145
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 86--144
+Underfull \hbox (badness 10000) in paragraph at lines 87--145
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 86--144
+Underfull \hbox (badness 10000) in paragraph at lines 87--145
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 86--144
+Underfull \hbox (badness 10000) in paragraph at lines 87--145
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 86--144
+Underfull \hbox (badness 10000) in paragraph at lines 87--145
 
  []
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 146--162
+Underfull \hbox (badness 10000) in paragraph at lines 147--163
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 146--162
+Underfull \hbox (badness 10000) in paragraph at lines 147--163
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 146--162
+Underfull \hbox (badness 10000) in paragraph at lines 147--163
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 169--178
+Underfull \hbox (badness 10000) in paragraph at lines 170--179
 
  []
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 185--195
+Underfull \hbox (badness 10000) in paragraph at lines 186--196
 
  []
 
@@ -638,11 +633,11 @@ Package rerunfilecheck Info: File `LaTexNote.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  13874 strings out of 402982
- 286279 string characters out of 5448473
- 756322 words of memory out of 5000000
+ 286309 string characters out of 5448473
+ 755322 words of memory out of 5000000
  42440 multiletter control sequences out of 15000+600000
  634775 words of font info for 92 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 74i,20n,93p,315b,947s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 74i,20n,93p,325b,947s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on LaTexNote.xdv (5 pages, 40020 bytes).
+Output written on LaTexNote.xdv (5 pages, 40936 bytes).
